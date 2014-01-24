@@ -1,0 +1,6 @@
+Future Per:
+  Default listings will be All Apps from Program files.
+  Ask user to enter the fav apps they want to be displayed in the browser.
+  Multiple profiles can be maitained.
+  
+  
